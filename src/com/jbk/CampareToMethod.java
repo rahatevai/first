@@ -9,6 +9,7 @@ public class CampareToMethod {
 		System.out.println(s1.compareTo(s2));
 		System.out.println(s1.compareTo(s3));
 		System.out.println(s1.compareTo(s4));
+		System.out.println(s1.compareTo(s2));
 	}
 
 }
